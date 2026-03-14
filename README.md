@@ -2,9 +2,11 @@
 
 Một hướng dẫn tự học Hanu Test cho các sinh viên học chuyên ngành bằng Tiếng Anh.
 
-Mục tiêu: tối đa hóa pattern recognition (nhận diện pattern trong đề thi) và task efficiency (hiểu từng kiểu bài và các mẹo làm bài cho tối ưu) cho mức CEFR B2 trong kỳ thi HANU TEST.
+Mục tiêu: tối đa hóa pattern recognition (nhận diện pattern trong đề thi) và task efficiency (hiểu từng kiểu bài và các mẹo làm bài cho tối ưu) cho mức CEFR B2 trong kỳ thi HANU TEST. Để làm được điều này thì có một cách đơn giản nhất:
 
-Trước hết cần xác định một nguyên tắc: bài thi ngôn ngữ tiêu chuẩn hóa có số lượng pattern hữu hạn. Listening, Reading, và Speaking đều lặp lại những cơ chế kiểm tra giống nhau.
+LUYỆN ĐỀ VÀ CÂU HỎI NHIỀU.
+
+Không có kho đề mẫu đâu (Chỉ có một số đề từ các năm ngoái và nó KHÔNG ĐỦ, mình đang dự tính sẽ sử dụng kho đề của VSTEP, và học cách sử dụng sao cho phù hợp với HANU TEST) và các dạng câu hỏi đang được soạn (Dựa trên số lượng đề mẫu có hạn). Nhưng trước hết, cần xác định một nguyên tắc: bài thi ngôn ngữ tiêu chuẩn hóa có số lượng pattern hữu hạn. Listening, Reading, và Speaking đều lặp lại những cơ chế kiểm tra giống nhau.
 
 Khi nhận ra pattern, tốc độ xử lý tăng lên đáng kể.
 
@@ -23,12 +25,14 @@ Ví dụ dạng pattern thường gặp:
 * *due to* → *because of*
 * *many people believe* → *it is widely thought*
 
-Việc cần luyện không chỉ là “học từ mới” mà là xây thư viện paraphrase trong đầu.
+Việc cần luyện không chỉ là “học từ mới” mà là xây thư viện paraphrase trong đầu. Bạn cần đọc báo (Mấy trang kiểu như NYTimes, WSJ này kia, dù nói chung là nó phải ở cỡ hơn C1 rồi, nhưng học được gì thì học thôi). Lấy một ví dụ từ [We're not profiteering on fuel. But my staff still face abuse](https://www.bbc.com/news/articles/c626mdvn6d5o):
 
-Câu hỏi tự kiểm tra:
+> The price of oil has surged since the start of the war in the Middle East two weeks ago and drivers are feeling the impact.
 
-* Khi làm Reading/Listening, mình có nhận ra paraphrase của câu hỏi trong bài không?
-* Khi sai câu, mình có ghi lại cặp paraphrase đó không?
+Trong câu này, bạn có thể sẽ học được (phải sử dụng cả từ điển nữa, mình gợi ý sử dụng Yomitan):
+
+- Từ "surged" ở đây nghĩa là tăng lên một cách nhanh chóng và mạnh mẽ (to increase suddenly and strongly), mình cũng có thể học được thêm cụm "has surged since" là kiểu "đã tăng lên một cách chóng mặt, kể từ *the start of the war in the Middle East*
+- Cụm "feeling the impact", đây là một cách nói rằng "họ đang cảm nhận được những ảnh hưởng" từ *The price of oil has surged since the start of the war in the Middle East two weeks ago*.
 
 ## 2. Nhận diện “question trap patterns”
 
